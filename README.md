@@ -2,6 +2,8 @@
 
 This project implements a sorting robot arm using an Arduino, servo motors, a webcam, and an LDR (Light Dependent Resistor) sensor. The robot arm is designed to detect and sort objects based on their color (red and blue) and also includes functionality to control an LED based on ambient light conditions.
 
+![Image](https://github.com/user-attachments/assets/08b9ebc9-8183-4f1b-b5ff-3952dafdd875)
+
 ## Features
 
 *   **Color-based Sorting**: Detects red and blue objects using computer vision (OpenCV) and moves the robot arm to designated positions for sorting.
